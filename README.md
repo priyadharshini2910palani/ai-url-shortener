@@ -67,5 +67,5 @@ mvn spring-boot:run
 
 ## Author
 
-Priyadharshini
+Priyadharshini P
 Final Year ECE Student | Java & Spring Boot Developer
