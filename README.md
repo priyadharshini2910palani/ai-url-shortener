@@ -1,0 +1,5 @@
+## Configuration
+
+Update application.properties:
+
+gemini.api.key=YOUR_GEMINI_API_KEY
